@@ -1,0 +1,5 @@
+ Machine learning is a subset of artificial intelligence that focuses on building systems that can learn from data.
+    It involves algorithms that improve their performance as they are exposed to more data over time.
+    Common machine learning tasks include classification, regression, clustering, and recommendation.
+    Machine learning is widely used in various applications such as image recognition, natural language processing, and predictive analytics.
+    Types of machine learning include supervised learning, unsupervised learning, and reinforcement learning.
